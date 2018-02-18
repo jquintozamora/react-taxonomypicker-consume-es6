@@ -27,6 +27,6 @@
     "polyfill-io-feature-detection": "1.1.14",
     "react": "16.2.0",
     "react-dom": "16.2.0",
-    "react-taxonomypicker": "0.0.37"
+    "react-taxonomypicker": "0.0.39"
   }
 }
